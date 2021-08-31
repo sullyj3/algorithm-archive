@@ -24,7 +24,7 @@ As I mentioned, this is not intuitive syntax, so please allow me to explain a bi
 
 Firstly, **what does the Fourier Transform do?**
 
-If we take a sum sinusoidal functions (like $$\sin(\omega t)$$ or $$\cos(\omega t)$$), we might find a complicated mess of waves between $$\pm 1$$.
+If we take a sum of sinusoidal functions (like $$\sin(\omega t)$$ or $$\cos(\omega t)$$), we might find a complicated mess of waves between $$\pm 1$$.
 Each constituent wave can be described by only one value: $$\omega$$.
 So, instead of representing these curves as seen above, we could instead describe them as peaks in frequency space, as shown below.
 
